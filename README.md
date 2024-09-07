@@ -1,4 +1,5 @@
 # 🍒 Pac-Man Remastered 🍒
+![image](https://github.com/user-attachments/assets/dd1baee2-1aeb-49e6-adc2-5c5cb79268de)
 
 ## 🎉 Ласкаво просимо до світу Pac-Man! 🎉
 

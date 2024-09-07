@@ -1,1 +1,3 @@
-# Labyrinth-Game
+# Pacman
+
+Welcome to the Pacman Game
